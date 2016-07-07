@@ -305,7 +305,7 @@ iframe {
   line-height: 1.5;
 }
 .experience .item .title .place {
-  color: #606060;
+  color: #000000;
   font-weight: normal;
 }
 .experience .item .title .place a {
@@ -431,7 +431,7 @@ iframe {
   padding-left: 25px;
 }
 .education .item .university .year {
-  color: #606060;
+  color: #000000;
   font-weight: 500;
 }
 /* Language Section */
