@@ -426,12 +426,12 @@ iframe {
 .education .item .university {
   font-family: "Lato", arial, sans-serif;
   font-size: 13px;
-  color: #999;
+  color: #4dffff;
   font-weight: 600;
   padding-left: 25px;
 }
 .education .item .university .year {
-  color: #b0b7bf;
+  color: #606060;
   font-weight: 500;
 }
 /* Language Section */
