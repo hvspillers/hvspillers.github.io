@@ -60,8 +60,8 @@ a.btn:focus {
 }
 a.btn-cta-primary,
 .btn-cta-primary {
-  background: #54ba4e;
-  border: 1px solid #54ba4e;
+  background:#f4a688;
+  border: 1px solid #606060;
   color: #fff;
   font-weight: 600;
   text-transform: uppercase;
